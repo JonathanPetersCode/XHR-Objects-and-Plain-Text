@@ -1,0 +1,26 @@
+A Brief History of JavaScript - (Sample Plain Text Data for fetching) 
+
+Source: https://www.quora.com/What-is-the-history-of-JavaScript
+
+
+1) JavaScript was designed by Brendan Eich in 1995 for Netscape to allow developers to enhance web pages with things like animated drop-down menus, and validating form entries.
+
+2) Brendan Eich designed JavaScript with the following in mind:
+
+3) Structure and Interpretation of Computer Programs (an MIT textbook)
+
+4) Incorporating Java-based syntax, object-oriented programming, and a prototypal inheritance system
+
+
+5) The language was originally called “Mocha”, then 
+changed to “LiveScript”, then “JavaScript”. It’s also now known as ECMAScript
+
+6) JavaScript competed with, and quickly outpaced, Java applets in the creation of web pages.
+
+7) JavaScript (or ECMAScript) has been through many revisions:
+ES2 (1998)
+ES3 (1999)
+ES5 (2009)
+ES6 (2015)
+
+8) The 2017 GitHub "Octoverse" report puts JavaScript at #1 most used programming language, with 2.3 million GitHub repos (2.3 times as many as Python, the runner-up).
